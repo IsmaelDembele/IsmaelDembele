@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismael
 - 👀 I’m interested in Web development
-- 🌱 I’m currently working on some Nextjs projects
+- 🌱 I’m currently working on a Nextjs projects
 - 💞️ I’m looking to collaborate on React/Express projects.
 - 📫 dembele.ismael [@] gmail.com
 - portfolio: https://ismaeldembele.netlify.app
